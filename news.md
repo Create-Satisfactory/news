@@ -1,7 +1,7 @@
 ^^^ 
 %#FFCC00% **WELCOME BACK, {"placeholder":"playername"}!** #%# 
 *Playing Create: Satisfactory v1.0.0 on Minecraft {"placeholder":"mcversion"}* 
-^^^
+
 ---
 
 ## %#00FFCC% 📢 LATEST ANNOUNCEMENTS
