@@ -1,5 +1,5 @@
-^^^ %#FFCC00% **WELCOME BACK, %%player_name%%!**
-^^^ *Playing Create: Satisfactory v1.0.0 on Minecraft %%mc_version%%*
+^^^ %#FFCC00% **WELCOME BACK, %%player_name%%!** #%#
+^^^ *Playing Create: Satisfactory v1.0.0 on Minecraft %%mc_version%%* 
 ---
 
 ## %#00FFCC% 📢 LATEST ANNOUNCEMENTS
@@ -9,9 +9,9 @@
 
 ## %#42ADF5% 🛠️ CHANGELOG (v1.0.0)
 
-### %#FF5555% 🔴 Removed Mods
+### %#FF5555% 🔴 Removed Mods %#%
 
-### %#55FF55% 🟢 Added Mods
+### %#55FF55% 🟢 Added Mods %#%
 
 ---
 ^^^ [# Join Our Discord Server #](https://discord.gg/jjSmKtFPue "Discord Link")
