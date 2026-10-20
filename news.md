@@ -1,11 +1,10 @@
-^^^ 
-%#FFCC00% **WELCOME BACK, {"placeholder":"playername"}!** #%# 
+^^^ %#FFCC00% **WELCOME BACK, {"placeholder":"playername"}!** #%# 
 *Playing Create: Satisfactory v1.0.0 on Minecraft {"placeholder":"mcversion"}* 
 
 ---
 
 ## %#00FFCC% 📢 LATEST ANNOUNCEMENTS
- **Total Active Mods:** You currently have {"placeholder":"totalmods"} mods loaded! \n
+ **Total Active Mods:** You currently have {"placeholder":"totalmods"} mods loaded!
  If you experience performance issues, please allocate more than {"placeholder":"maxram"} of RAM in your launcher.
 ---
 
