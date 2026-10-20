@@ -6,7 +6,6 @@
 
 ## %#00FFCC%📢 LATEST ANNOUNCEMENTS%#%
 **Total Active Mods:** You currently have {"placeholder":"loadedmods"} mods loaded!
-If you experience performance issues, please allocate more RAM in your launcher.
 ---
 
 ## %#42ADF5%🛠️ CHANGELOG (v1.0.0)%#%
