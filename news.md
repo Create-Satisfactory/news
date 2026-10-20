@@ -14,4 +14,4 @@
 ### %#55FF55% 🟢 Added Mods
 
 ---
-^^^ [# Join Our Discord Server #](https://discord.gg "Discord Link")
+^^^ [# Join Our Discord Server #](https://discord.gg/rVYJvwfqfs "Discord Link")
