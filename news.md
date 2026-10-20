@@ -5,8 +5,8 @@
 ---
 
 ## %#00FFCC% 📢 LATEST ANNOUNCEMENTS
-> **Total Active Mods:** You currently have {"placeholder":"totalmods"} mods loaded! 
-> If you experience performance issues, please allocate more than {"placeholder":"maxram"} of RAM in your launcher.
+ **Total Active Mods:** You currently have {"placeholder":"totalmods"} mods loaded! 
+ If you experience performance issues, please allocate more than {"placeholder":"maxram"} of RAM in your launcher.
 ---
 
 ## %#42ADF5% 🛠️ CHANGELOG (v1.0.0)
