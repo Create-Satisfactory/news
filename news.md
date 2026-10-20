@@ -8,7 +8,7 @@
 **Total Active Mods:** You currently have {"placeholder":"loadedmods"} mods loaded!
 ---
 
-## %#42ADF5%🛠️ CHANGELOG (v1.0.0)%#%
+## %#42ADF5%🛠 CHANGELOG (v1.0.0)%#%
 
 ### %#FF5555%🔴 Removed Mods%#%
 
